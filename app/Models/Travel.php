@@ -44,4 +44,3 @@ class Travel extends Model
         );
     }
 }
-//App\Models\Travel::create(['name'=> 'test name', 'description'=> 'assasa', 'number_of_days' => 5])
